@@ -7,10 +7,5 @@
   - [ ] Pull tvOS models out of SalixUI
   - [ ] Constructor dependency injection for models  
 
-  - [ ] Error handling for email on FODMAPer iOS
-  - [ ] Rally Genius iOS feedback 
-  - [ ] Rally Genius iOS share
-  - [x] Update data for Rally Genius Android
-  - [x] Resize assets iOS
-  - [x] Resize assets Android
+
 
