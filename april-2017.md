@@ -16,6 +16,7 @@
  - [x] tvOS parse root channel from clearleap
  
 ### 4-12-17 
+ - [x] JavaScript callbacks called in Swift
  - [ ] tvOS Context / Provider refactor
  - [ ] Separate concerns of Salix Context?
  - [ ] Pull tvOS models out of SalixUI
