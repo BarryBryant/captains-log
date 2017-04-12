@@ -9,7 +9,7 @@
  - [x] tvOS Playback tracking
   
 ### 4-10-17
- - [x] tvOS Native AVPlayer with TVML
+ - [x] tvOS Native AVPlayer from tvOS/TVJS
  
 ### 4-11-17
  - [x] tvOS login as device to clearleap
