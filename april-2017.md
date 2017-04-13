@@ -17,6 +17,7 @@
  
 ### 4-12-17 
  - [x] JavaScript callbacks called in Swift
+ - [x] Build JS dispatcher 
  - [ ] tvOS Context / Provider refactor
  - [ ] Separate concerns of Salix Context?
  - [ ] Pull tvOS models out of SalixUI
