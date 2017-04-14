@@ -18,6 +18,13 @@
 ### 4-12-17 
  - [x] JavaScript callbacks called in Swift
  - [x] Build JS dispatcher 
+ 
+### 4-13-17
+ - [x] Pull clearleap data in from tvOS
+ - [x] Create JS/Mustache consumable model from `Page`/`PageItem`
+
+### 4-14-17
+ - [x] Render CBC content from Clearleap in tvOS
  - [ ] tvOS Context / Provider refactor
  - [ ] Separate concerns of Salix Context?
  - [ ] Pull tvOS models out of SalixUI
