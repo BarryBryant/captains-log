@@ -25,10 +25,14 @@
 
 ### 4-14-17
  - [x] Render CBC content from Clearleap in tvOS
- - [ ] tvOS Context / Provider refactor
- - [ ] Separate concerns of Salix Context?
- - [ ] Pull tvOS models out of SalixUI
- - [ ] Constructor dependency injection for models  
+ 
+### 4-17-17
+ - [x] tvOS Context / Provider refactor
+ - [x] Separate concerns of Salix Context?
+ - [x] Pull tvOS models out of SalixUI
+ - [x] Caseless enum static conversion of models 
+ - [x] Wrap clearleap calls in promises
+ - [x] Show home screen with menu format on tvOS
 
 
 
