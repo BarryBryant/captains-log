@@ -33,6 +33,8 @@
  - [x] Caseless enum static conversion of models 
  - [x] Wrap clearleap calls in promises
  - [x] Show home screen with menu format on tvOS
-
-
+ 
+### 4-19-17
+ - [x] tvOS domain specific models
+ - [x] fresh tv service built off channels
 
