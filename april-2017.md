@@ -37,4 +37,9 @@
 ### 4-19-17
  - [x] tvOS domain specific models
  - [x] fresh tv service built off channels
+ 
+### 4-20-17
+ - [x] clearleap data -> Salix tvOS models
+ - [x] rendering all root channel data
+ - [x] tvOS models to JSON
 
