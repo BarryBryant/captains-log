@@ -42,4 +42,6 @@
  - [x] clearleap data -> Salix tvOS models
  - [x] rendering all root channel data
  - [x] tvOS models to JSON
-
+ 
+### 4-24-17
+ - [x] Move tvOS core resources into Salix
