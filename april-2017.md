@@ -59,3 +59,4 @@
 - [x] parse specific type of series
 - [x] update series/episode detail templates
 - [x] refactor and clean up tvService
+- [x] styled templates for Shows, SeasonlessShows, and single media pieces of content
