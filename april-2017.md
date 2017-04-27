@@ -45,3 +45,17 @@
  
 ### 4-24-17
  - [x] Move tvOS core resources into Salix
+ 
+### 4-25-17
+- [x] Fix Salix tvOS build
+- [x] Update cocoapods for new Salix dependencies 
+- [x] Add tvOS resources to podspecs
+
+### 4-26-17
+- [x] series detail page
+- [x] playing media from tvOS
+
+### 4-27-17
+- [x] parse specific type of series
+- [x] update series/episode detail templates
+- [x] refactor and clean up tvService
