@@ -4,3 +4,5 @@
 [May 2017](may-2017.md)
 
 [June 2017](june-2017.md)
+
+[July 2017](june-2017.md)
